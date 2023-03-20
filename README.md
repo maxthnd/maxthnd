@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @maxthnd
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java & C#
-- 📫 On Snap @max.d3ckr
+- 🌱 I’m currently learning Java, Python & C#
