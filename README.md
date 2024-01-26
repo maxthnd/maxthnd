@@ -10,7 +10,7 @@ Ich bin in der Lage folgende Programmiersprachen anzuwenden:
 
 Folgende Frameworks sind mir bereits bekannt:
 
-![My Skills](https://skillicons.dev/icons?i=angular,vue,svelte,bootstrap,dotnet,spring,&perline=3&theme=light)
+![My Skills](https://skillicons.dev/icons?i=angular,vue,svelte,bootstrap,dotnet,spring,&perline=4&theme=light)
 
 Mit gewissen Datenbanksystemen habe ich bereits gearbeitet:
 
