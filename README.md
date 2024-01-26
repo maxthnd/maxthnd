@@ -11,6 +11,7 @@ Ich bin in der Lage folgende Programmiersprachen anzuwenden:
 Folgende Frameworks sind mir bereits bekannt:
 
 ![My Skills](https://skillicons.dev/icons?i=angular,vue,svelte,bootstrap,dotnet,spring,&perline=3&theme=light)
+
 Mit gewissen Datenbanksystemen habe ich bereits gearbeitet:
 
 ![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=3&theme=light)
