@@ -4,15 +4,15 @@ Hallo und willkommen auf meinem Profil. Ich teile hier öffentliche & private Pr
 
 # Skills
 
-Ich bin in der Lage folgende Programmiersprachen anzuwenden:
+Programming Languages which I learned or made experience with:
 
 ![My Skills](https://skillicons.dev/icons?i=cs,js,ts,java,py,swift,go,html&perline=4)
 
-Folgende Frameworks sind mir bereits bekannt:
+General frameworks I worked with:
 
 ![My Skills](https://skillicons.dev/icons?i=angular,vue,svelte,bootstrap,dotnet,spring,&perline=4&theme=light)
 
-Mit gewissen Datenbanksystemen habe ich bereits gearbeitet:
+Knowledge in Databases:
 
 ![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=3&theme=light)
 
