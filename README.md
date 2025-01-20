@@ -1,6 +1,9 @@
 # Profil von maxthnd
 
-Hallo und willkommen auf meinem Profil. Ich teile hier öffentliche & private Projekte. Aktuell bin ich Auszubildender bis 2025. Ich entwickle im Fullstack & Low-Code Bereich Webapplikationen, sowie Mac & iOS Apps.
+Hallo und willkommen auf meinem Profil. Ich teile hier öffentliche & private Projekte. Aktuell bin ich Auszubildender bis 2025. Ich entwickle im Fullstack & Low-Code Bereich Webapplikationen, sowie Mac & iOS Apps. Welcome to my profile, I share private and public projects on this plattform to show my abilities. By now I am in my apprenticeship till 2025. I develop webapplications in low and highcode.
+
+Contributing or Owning
+ECMP, Moneta, SCHMIDGMBH, ...
 
 # Skills
 
