@@ -1,4 +1,4 @@
-# Profil von maxthnd
+# Maximilian Decker
 
 🇩🇪 Hallo und willkommen auf meinem Profil. Ich teile hier öffentliche & private Projekte. Aktuell bin ich Auszubildender bis 2025. Ich entwickle im Fullstack & Low-Code Bereich Webapplikationen, sowie Mac & iOS Apps.
 
