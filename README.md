@@ -13,16 +13,3 @@ ECMP, Moneta, ...
 Coding languages I made experience with:
 
 ![My Skills](https://skillicons.dev/icons?i=cs,js,ts,java,py,swift,go,html&perline=4)
-
-Frameworks I already used:
-
-![My Skills](https://skillicons.dev/icons?i=angular,vue,svelte,bootstrap,dotnet,spring,&perline=4&theme=light)
-
-Database knowledge:
-
-![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=3&theme=light)
-
-Tools &  IDEs:
-
-![My Skills](https://skillicons.dev/icons?i=figma,vscode,idea,docker&perline=4&theme=light)
-
