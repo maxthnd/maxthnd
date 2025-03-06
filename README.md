@@ -2,26 +2,25 @@
 
 🎯 **Fullstack | Low-Code | High-Code | Web & Apple Ecosystem**  
 
-💡 Ich baue **skalierbare** & **effiziente** Software – von Webapplikationen bis hin zu nativen iOS/macOS-Apps. Mein Code ist nicht nur funktional, sondern **durchdacht & performant**.  
-Aktuell in der Ausbildung (bis 2025) und schon jetzt dabei, meinen Fußabdruck in der Tech-Welt zu hinterlassen.  
+💡 I build **scalable** & **efficient** software – from web applications to native iOS/macOS apps. My code is not just functional but also **thoughtful & high-performance**.  
+Currently in training (until 2025) and already making my mark in the tech world.  
 
-> *"Code ist vergänglich. Architektur ist für die Ewigkeit."*  
+> *"Code is temporary. Architecture is forever."*  
 
-## 🏆 Projekte (Contributing & Ownership)  
-🔹 **ECMP** – [Kurzbeschreibung oder Link]  
-🔹 **Moneta** – [Kurzbeschreibung oder Link]  
-🔹 Mehr auf meinem Profil...  
+## 🏆 Projects (Contributing & Ownership)  
+🔹 **ECMP** – [Short description or link]  
+🔹 **Moneta** – [Short description or link]  
+🔹 More on my profile...  
 
 ## 🔥 Skills  
-⚡ **Sprachen & Tools**  
+⚡ **Languages & Tools**  
 ![My Skills](https://skillicons.dev/icons?i=cs,js,ts,java,py,swift,go,html&perline=4)  
 
-📌 **Stärken:**  
-✅ Fullstack Development (Front- & Backend)  
-✅ Low-Code / Automatisierung  
+📌 **Strengths:**  
+✅ Fullstack Development (Front & Backend)  
+✅ Low-Code / Automation  
 ✅ Apple Ecosystem Development (macOS & iOS)  
-✅ Architektur & Performance-Optimierung  
+✅ Architecture & Performance Optimization  
 
 📫 **Let’s Connect:**  
-[LinkedIn](https://www.linkedin.com/in/maximilian-thomas-nic-decker-48ab54279/) | [Portfolio](https://maximilian-decker.com)
-
+[LinkedIn](https://www.linkedin.com/in/maximilian-thomas-nic-decker-48ab54279/) | [Portfolio](https://maximilian-decker.com)  
