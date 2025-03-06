@@ -1,15 +1,27 @@
-# Maximilian Decker
+# 🚀 Maximilian Decker  
 
-🇩🇪 Hallo und willkommen auf meinem Profil. Ich teile hier öffentliche & private Projekte. Aktuell bin ich Auszubildender bis 2025. Ich entwickle im Fullstack & Low-Code Bereich Webapplikationen, sowie Mac & iOS Apps.
+🎯 **Fullstack | Low-Code | High-Code | Web & Apple Ecosystem**  
 
-🇬🇧 Welcome to my profile, I share private and public projects on this plattform to show my abilities. By now I am in my apprenticeship till 2025. I develop webapplications in low and highcode.
+💡 Ich baue **skalierbare** & **effiziente** Software – von Webapplikationen bis hin zu nativen iOS/macOS-Apps. Mein Code ist nicht nur funktional, sondern **durchdacht & performant**.  
+Aktuell in der Ausbildung (bis 2025) und schon jetzt dabei, meinen Fußabdruck in der Tech-Welt zu hinterlassen.  
 
-Contributing or Owning:
+> *"Code ist vergänglich. Architektur ist für die Ewigkeit."*  
 
-ECMP, Moneta, ...
+## 🏆 Projekte (Contributing & Ownership)  
+🔹 **ECMP** – [Kurzbeschreibung oder Link]  
+🔹 **Moneta** – [Kurzbeschreibung oder Link]  
+🔹 Mehr auf meinem Profil...  
 
-# Skills
+## 🔥 Skills  
+⚡ **Sprachen & Tools**  
+![My Skills](https://skillicons.dev/icons?i=cs,js,ts,java,py,swift,go,html&perline=4)  
 
-Coding languages I made experience with:
+📌 **Stärken:**  
+✅ Fullstack Development (Front- & Backend)  
+✅ Low-Code / Automatisierung  
+✅ Apple Ecosystem Development (macOS & iOS)  
+✅ Architektur & Performance-Optimierung  
 
-![My Skills](https://skillicons.dev/icons?i=cs,js,ts,java,py,swift,go,html&perline=4)
+📫 **Let’s Connect:**  
+[LinkedIn](https://www.linkedin.com/in/maximilian-thomas-nic-decker-48ab54279/) | [Portfolio](https://maximilian-decker.com)
+
