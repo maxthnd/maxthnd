@@ -4,9 +4,9 @@
 
 🇬🇧 Welcome to my profile, I share private and public projects on this plattform to show my abilities. By now I am in my apprenticeship till 2025. I develop webapplications in low and highcode.
 
-Contributing or Owning
+Contributing or Owning:
 
-ECMP, Moneta, SCHMIDGMBH, ...
+ECMP, Moneta, ...
 
 # Skills
 
