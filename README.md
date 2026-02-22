@@ -9,8 +9,7 @@ Freshly out of training and already making my mark in the tech world. Currently 
 
 ## 🏆 Projects (Contributing & Ownership)  
 🔹 **CASSIX** – [coming soon]  
-🔹 **VerusManager** – [coming soon]  
-🔹 More on my profile...  
+🔹 **ORBIT** – [private]    
 
 ## 🔥 Skills  
 ⚡ **Languages & Tools**  
